@@ -9,8 +9,6 @@ top = monitor.y
 right = left + monitor.width
 bottom = top + monitor.height
 
-print(f"monitor bounds: left={left}; top={top}; right={right}; bottom={bottom}")
-
 while True:
 
     x, y = pyautogui.position()
