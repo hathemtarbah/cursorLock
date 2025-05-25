@@ -14,6 +14,23 @@ Designed for users who want to restrict cursor movement.
 - `pyautogui`
 - `screeninfo`
 
+## Releases
+
+Download the latest version from the [Releases] page.
+
+- **macOS**: [CursorLock-v1.1-macOS]
+
+No installation required. Just run the app to lock the cursor to your main screen.
+
+---
+
+##  Features
+
+- Locks the cursor within the primary monitor on macOS.
+- Lightweight and runs in the background.
+- No console window or setup required.
+
+
 Install dependencies:
 ```bash
 pip install pyautogui screeninfo
