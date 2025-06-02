@@ -33,4 +33,5 @@ No installation required. Just run the app to lock the cursor to your main scree
 
 Install dependencies:
 ```bash
-pip install pyautogui screeninfo
+pip install pyautogui screeninfo# minor update
+# minor update()
